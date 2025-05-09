@@ -1,0 +1,110 @@
+‏<!DOCTYPE html>
+‏<html lang="ckb" dir="rtl">
+‏<head>
+‏    <meta charset="UTF-8">
+‏    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+‏    <title>k4k_hussen | E-Sign هاککراو</title>
+‏    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;700&display=swap" rel="stylesheet">
+‏    <style>
+        /* ڕێکخستنی کوردی */
+‏        body {
+‏            font-family: 'Noto Sans Arabic', sans-serif;
+‏            background: #1a1a1a;
+‏            color: #fff;
+‏            margin: 0;
+‏            padding: 20px;
+        }
+
+‏        .k4k-container {
+‏            max-width: 800px;
+‏            margin: 50px auto;
+‏            padding: 30px;
+‏            text-align: center;
+‏            border: 2px solid #ff6b6b;
+‏            border-radius: 20px;
+‏            background: #2d2d2d;
+        }
+
+‏        .k4k-title {
+‏            color: #ff6b6b;
+‏            font-size: 2.5em;
+‏            text-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
+‏            margin-bottom: 25px;
+        }
+
+        /* دوگمەی داگرتن */
+‏        .k4k-download-btn {
+‏            background: linear-gradient(45deg, #ff6b6b, #ff4757);
+‏            color: white;
+‏            padding: 18px 45px;
+‏            border: none;
+‏            border-radius: 30px;
+‏            font-size: 1.4em;
+‏            cursor: pointer;
+‏            transition: 0.3s;
+‏            text-decoration: none;
+‏            display: inline-flex;
+‏            align-items: center;
+‏            gap: 12px;
+‏            box-shadow: 0 5px 25px rgba(255, 107, 107, 0.4);
+‏            margin: 25px 0;
+        }
+
+‏        .k4k-download-btn:hover {
+‏            transform: scale(1.08);
+‏            box-shadow: 0 7px 35px rgba(255, 107, 107, 0.6);
+        }
+
+‏        .k4k-badge {
+‏            background: #2ed573;
+‏            color: white;
+‏            padding: 8px 20px;
+‏            border-radius: 15px;
+‏            display: inline-block;
+‏            margin: 15px 0;
+        }
+‏    </style>
+‏</head>
+‏<body>
+‏    <div class="k4k-container">
+        <!-- ناوی کۆگا -->
+‏        <h1 class="k4k-title">k4k_hussen 🛠️</h1>
+        
+        <!-- ناوی بەرنامە -->
+‏        <h2 style="color: #ffd93d;">E-Sign Premium Hack v8.1</h2>
+‏        <div class="k4k-b
+‏adge">ڤێرژنی تایبەتی کوردی</div>
+        <!-- لینکی داگرتن -->
+‏<a href="https://is.gd/9RaQAz" 
+‏           download="Esign_K4k_Hussien.apk" 
+‏           class="k4k-download-btn">
+           ⬇️ داگرتنی یەکسەر
+‏        </a>
+
+        <!-- تایبەتمەندییەکان -->
+‏        <div style="text-align: right; margin: 30px 0;">
+‏            <h3>🚀 تایبەتمەندییەکانی هاک:</h3>
+‏            <ul style="list-style: none; padding: 0;">
+‏                <li>► هەموو ئامرازەکان کراوەن 🔓</li>
+‏                <li>► دابەاندنی یاری بەرنامەی هاککراو بە ڕێگای Esign ✅</li>
+
+
+‏            </ul>
+‏        </div>
+
+        <!-- پێنجەرە -->
+‏        <footer style="color: #888; margin-top: 40px;">
+‏            <p>© 2025 k4k_hussen - تەنها بۆ فێربوونی تەکنەلۆژیا 😊</p>
+‏        </footer>
+‏    </div>
+
+    <!-- کۆدی ئاماری داگرتن -->
+‏    <script>
+‏        let downloadCount = 0;
+‏        document.querySelector('.k4k-download-btn').addEventListener('click', () => {
+‏            downloadCount++;
+‏            alert(`سوپاس بۆ داگرتن! ژمارەی داگرتنەکان: ${downloadCount}`);
+        });
+‏    </script>
+‏</body>
+‏</html>
